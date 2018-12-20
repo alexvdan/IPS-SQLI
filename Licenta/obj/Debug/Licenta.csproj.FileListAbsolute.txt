@@ -1,0 +1,13 @@
+C:\Users\Vdi\source\repos\Licenta\Licenta\bin\Debug\Licenta.exe.config
+C:\Users\Vdi\source\repos\Licenta\Licenta\bin\Debug\Licenta.exe
+C:\Users\Vdi\source\repos\Licenta\Licenta\bin\Debug\Licenta.pdb
+C:\Users\Vdi\source\repos\Licenta\Licenta\obj\Debug\Licenta.home.resources
+C:\Users\Vdi\source\repos\Licenta\Licenta\obj\Debug\Licenta.Properties.Resources.resources
+C:\Users\Vdi\source\repos\Licenta\Licenta\obj\Debug\Licenta.csproj.GenerateResource.Cache
+C:\Users\Vdi\source\repos\Licenta\Licenta\obj\Debug\Licenta.csproj.CoreCompileInputs.cache
+C:\Users\Vdi\source\repos\Licenta\Licenta\obj\Debug\Licenta.exe
+C:\Users\Vdi\source\repos\Licenta\Licenta\obj\Debug\Licenta.pdb
+C:\Users\Vdi\source\repos\Licenta\Licenta\obj\Debug\Licenta.csprojResolveAssemblyReference.cache
+C:\Users\Vdi\source\repos\Licenta\Licenta\obj\Debug\Licenta.homeTab.resources
+C:\Users\Vdi\source\repos\Licenta\Licenta\obj\Debug\Licenta.configureTab.resources
+C:\Users\Vdi\source\repos\Licenta\Licenta\obj\Debug\Licenta.monitorTab.resources
